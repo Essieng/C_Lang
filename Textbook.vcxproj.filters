@@ -36,6 +36,45 @@
     <ClCompile Include="prac2-3.c">
       <Filter>소스 파일\chapter1</Filter>
     </ClCompile>
+    <ClCompile Include="2-1.c">
+      <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="2-2.c">
+      <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="2-3.c">
+      <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="2-4.c">
+      <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="2-5.c">
+      <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="2-6.c">
+      <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="2-7.c">
+      <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="2-8.c">
+      <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="2-9.c">
+      <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="2-10.c">
+      <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="2-12.c">
+      <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="2-13.c">
+      <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="2-14.c">
+      <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="prac2-3.h">
