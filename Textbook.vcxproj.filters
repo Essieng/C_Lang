@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\chapter1">
       <UniqueIdentifier>{996fa50e-9f2c-4453-b4eb-d2a1b47da4b1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\chapter3">
+      <UniqueIdentifier>{01201398-3c90-48c5-93c3-2b77414a8ce0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="prac1-1.c">
@@ -74,6 +77,42 @@
     </ClCompile>
     <ClCompile Include="2-14.c">
       <Filter>소스 파일\chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1.c">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2.c">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3.c">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4.c">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-5.c">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6.c">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-7.c">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-8.c">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-9.c">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-10.c">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="prac3-1.c">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="prac3-2.c">
+      <Filter>소스 파일\chapter3</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
