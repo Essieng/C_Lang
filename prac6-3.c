@@ -45,7 +45,7 @@ void bubble(int* work, const int size, int(*compare)(int, int)) {
 void swap(int* element1ptr, int* element2ptr) {
 	int temp;
 	temp = *element1ptr;
-	*element1ptr = *element1ptr;
+	*element1ptr = *element2ptr;
 	*element2ptr = temp;
 }
 
