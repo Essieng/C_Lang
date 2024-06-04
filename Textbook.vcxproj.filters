@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\chapter5">
       <UniqueIdentifier>{dca0b929-50d2-455d-9f75-4cb370255fde}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\chapter6">
+      <UniqueIdentifier>{a058c164-f14b-4d69-90e2-5608be0b9c96}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="prac1-1.c">
@@ -140,6 +143,15 @@
     </ClCompile>
     <ClCompile Include="prac5-3.c">
       <Filter>소스 파일\chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="prac6-1.c">
+      <Filter>소스 파일\chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="prac6-2.c">
+      <Filter>소스 파일\chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="prac6-3.c">
+      <Filter>소스 파일\chapter6</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
