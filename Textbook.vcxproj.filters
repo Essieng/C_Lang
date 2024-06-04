@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\chapter3">
       <UniqueIdentifier>{01201398-3c90-48c5-93c3-2b77414a8ce0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\chapter4">
+      <UniqueIdentifier>{4e9b4e42-6211-44a2-a967-754baea1f039}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="prac1-1.c">
@@ -113,6 +116,18 @@
     </ClCompile>
     <ClCompile Include="prac3-2.c">
       <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="prac4-1.c">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="prac4-2.c">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="prac4-3.c">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="prac4-4.c">
+      <Filter>소스 파일\chapter4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
